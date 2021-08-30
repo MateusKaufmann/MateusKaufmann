@@ -7,7 +7,7 @@
 
 <p align="left">
   &#128187 Linguagens: <br>
-  <strong>- HTML/CSS </strong>&#9898 &#9898 &#9898 &#9898 &#9898<br>
+  <strong>- HTML/CSS </strong>&#128313; &#9898 &#9898 &#9898 &#9898<br>
    <strong>- JavaScript</strong><br>
    <strong>- PHP</strong><br>
    <strong>- C++</strong><br>
