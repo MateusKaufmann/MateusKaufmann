@@ -6,7 +6,17 @@
 </p>
 
 <p align="left">
-  &#128187 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  &#128187 Linguagens: <br>
+  <strong>- HTML/CSS </strong>&#9898 &#9898 &#9898 &#9898 &#9898<br>
+   <strong>- JavaScript</strong><br>
+   <strong>- PHP</strong><br>
+   <strong>- C++</strong><br>
+   <strong>- React</strong><br>
+   <strong>- Java</strong><br>
+   <strong>- Bootstrap 4</strong><br>
+   <strong>- JQuery</strong><br>
+   <strong>- MySQL/SQL</strong><br>
+   <strong>- MongoDB</strong><br>
 </p>
 
 <p align="left">
