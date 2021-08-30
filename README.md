@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+   <strong>Programador Jr. Full Stack</strong>.<br>
+   Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Atualmente cursando Ensino Superior em Desenvolvimento      de Sistemas para Internet no IFRS Porto Alegre.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  &#128187 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
 
 <p align="left">
