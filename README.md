@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  <a href="httmailto:mateusbkaufmann@gmail.com" alt="Gmail">
+  <a href="mailto:mateusbkaufmann@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mateusbkaufmann@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/mateus-kaufmann-494194213" alt="Linkedin">
