@@ -7,20 +7,20 @@
 
 <p align="left" style="align: justify">
    &#128187 Linguagens: <br><br>
-   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> HTML/CSS </strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> JavaScript</strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 <strong> PHP</strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 &#9898<strong> C++</strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 &#9898<strong> React</strong><br>
+   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#9898 <strong> HTML/CSS </strong><br>
+   &#128309 &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 <strong> JavaScript</strong><br>
+   &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 &#9898 <strong> PHP</strong><br>
+   &#128309 &#128309 &#128309 &#9898 &#9898 &#9898 &#9898<strong> C++</strong><br>
+   &#128309 &#128309 &#128309 &#9898 &#9898 &#9898 &#9898<strong> React</strong><br>
    &#128309 &#128309 &#128309 &#9898 &#9898 &#9898 &#9898 <strong> Java</strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> Bootstrap 4</strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#9898 <strong> JQuery</strong><br>
-   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> MySQL/SQL</strong><br>
+   &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#9898 <strong> Bootstrap 4</strong><br>
+   &#128309 &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 <strong> JQuery</strong><br>
+   &#128309 &#128309 &#128309 &#128309 &#9898 &#9898 &#9898 <strong> MySQL/SQL</strong><br>
    &#128309 &#128309 &#128309 &#9898 &#9898 &#9898 &#9898 <strong> MongoDB</strong><br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>MyQSL Workbench, Visual Studio Code, C++ IDE, NetBeans IDE</strong>
+  💼 Ferramentas: <strong>MySQL Workbench, Visual Studio Code, C++ IDE, NetBeans IDE</strong>
 </p>
 
 <p align="left">
