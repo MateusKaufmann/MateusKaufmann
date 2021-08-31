@@ -8,7 +8,7 @@
    Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Estudante de Desenvolvimento de Sistemas Web. Selecionado pelo Google como segundo lugar na etapa regional do Google Startup In School.
 </p>
 
-<p align="left" style="align: justify">
+<p align="left" style="align: justify" class="animate__animated animate__zoomIn animate__slower">
    &#128187 Linguagens: <br><br>
    &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> HTML/CSS </strong><br>
    &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> JavaScript</strong><br>
