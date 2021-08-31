@@ -1,4 +1,4 @@
-<img src="https://github.com/MateusKaufmann/MateusKaufmann/blob/main/oie_transparent%20(2).png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
+<img src="https://github.com/MateusKaufmann/MateusKaufmann/blob/main/oie_transparent%20(3).png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left"> 
    <strong>Programador Jr. Full Stack</strong>.<br>
