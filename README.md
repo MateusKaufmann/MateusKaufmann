@@ -1,14 +1,11 @@
 <img src="https://github.com/MateusKaufmann/MateusKaufmann/blob/main/oie_transparent%20(3).png" min-width="250px" max-width="250px" width="400px" align="right" alt="">
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
+
 <p align="left"> 
    <strong>Programador Jr. Full Stack</strong>.<br>
    Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Estudante de Desenvolvimento de Sistemas Web. Selecionado pelo Google como segundo lugar na etapa regional do Google Startup In School.
 </p>
 
-<p align="left" style="align: justify" class="animate__animated animate__zoomIn animate__slower">
+<p align="left" style="align: justify">
    &#128187 Linguagens: <br><br>
    &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> HTML/CSS </strong><br>
    &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309 <strong> JavaScript</strong><br>
