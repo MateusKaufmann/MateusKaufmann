@@ -2,7 +2,7 @@
 
 <p align="left"> 
    <strong>Programador Jr. Full Stack</strong>.<br>
-   Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Atualmente cursando Ensino Superior em Desenvolvimento      de Sistemas para Internet no IFRS Porto Alegre.
+   Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Estudante de Desenvolvimento de Sistemas Web.Selecionado pelo Google como segundo lugar na etapa regional do Google Startup In School
 </p>
 
 <p align="left" style="align: justify">
