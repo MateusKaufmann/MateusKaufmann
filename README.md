@@ -5,7 +5,7 @@
    Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Atualmente cursando Ensino Superior em Desenvolvimento      de Sistemas para Internet no IFRS Porto Alegre.
 </p>
 
-<p align="left">
+<p align="left" style="align: justify">
   &#128187 Linguagens: <br>
   <strong>- HTML/CSS </strong>&#128313 &#128312 &#128312 &#128312 &#128312<br>
    <strong>- JavaScript</strong>&#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309<br>
