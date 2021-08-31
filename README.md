@@ -1,22 +1,22 @@
-<img src="https://github.com/MateusKaufmann/MateusKaufmann/blob/main/oie_transparent%20(3).png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
+<img src="https://github.com/MateusKaufmann/MateusKaufmann/blob/main/oie_transparent%20(2).png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left"> 
    <strong>Programador Jr. Full Stack</strong>.<br>
    Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga. Atualmente cursando Ensino Superior em Desenvolvimento      de Sistemas para Internet no IFRS Porto Alegre.
 </p>
 
-<p align="left" style="align:justify">
+<p align="left">
   &#128187 Linguagens: <br>
-  <strong>- HTML/CSS </strong>&#9898 &#9898 &#9898 &#9898 &#9898<br>
-   <strong>- JavaScript</strong><br>
-   <strong>- PHP</strong><br>
-   <strong>- C++</strong><br>
-   <strong>- React</strong><br>
-   <strong>- Java</strong><br>
-   <strong>- Bootstrap 4</strong><br>
-   <strong>- JQuery</strong><br>
-   <strong>- MySQL/SQL</strong><br>
-   <strong>- MongoDB</strong><br>
+  <strong>- HTML/CSS </strong>&#128313 &#128312 &#128312 &#128312 &#128312<br>
+   <strong>- JavaScript</strong>&#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309<br>
+   <strong>- PHP</strong>&#128309 &#128309 &#128309 &#128309 &#128309<br>
+   <strong>- C++</strong>&#128309 &#128309 &#128309 &#128309<br>
+   <strong>- React</strong>&#128309 &#128309 &#128309 &#128309<br>
+   <strong>- Java</strong>&#128309 &#128309 &#128309<br>
+   <strong>- Bootstrap 4</strong>&#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309<br>
+   <strong>- JQuery</strong>&#128309 &#128309 &#128309 &#128309 &#128309 &#128309<br>
+   <strong>- MySQL/SQL</strong>&#128309 &#128309 &#128309 &#128309 &#128309 &#128309 &#128309<br>
+   <strong>- MongoDB</strong>&#128309 &#128309 &#128309<br>
 </p>
 
 <p align="left">
